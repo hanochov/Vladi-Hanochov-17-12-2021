@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hanochov/Vladi-Hanochov-17-12-2021/static/css/main.714d6b34.chunk.css",
+    "main.js": "/hanochov/Vladi-Hanochov-17-12-2021/static/js/main.350787a7.chunk.js",
+    "main.js.map": "/hanochov/Vladi-Hanochov-17-12-2021/static/js/main.350787a7.chunk.js.map",
+    "runtime-main.js": "/hanochov/Vladi-Hanochov-17-12-2021/static/js/runtime-main.23d1c9a9.js",
+    "runtime-main.js.map": "/hanochov/Vladi-Hanochov-17-12-2021/static/js/runtime-main.23d1c9a9.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/hanochov/Vladi-Hanochov-17-12-2021/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9c964532.chunk.js": "/hanochov/Vladi-Hanochov-17-12-2021/static/js/2.9c964532.chunk.js",
+    "static/js/2.9c964532.chunk.js.map": "/hanochov/Vladi-Hanochov-17-12-2021/static/js/2.9c964532.chunk.js.map",
+    "index.html": "/hanochov/Vladi-Hanochov-17-12-2021/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/hanochov/Vladi-Hanochov-17-12-2021/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.714d6b34.chunk.css.map": "/hanochov/Vladi-Hanochov-17-12-2021/static/css/main.714d6b34.chunk.css.map",
+    "static/js/2.9c964532.chunk.js.LICENSE.txt": "/hanochov/Vladi-Hanochov-17-12-2021/static/js/2.9c964532.chunk.js.LICENSE.txt",
+    "static/media/pexels-david-jakab-1080722.1f8505f8.jpg": "/hanochov/Vladi-Hanochov-17-12-2021/static/media/pexels-david-jakab-1080722.1f8505f8.jpg",
+    "static/media/spring.7223ee74.jpg": "/hanochov/Vladi-Hanochov-17-12-2021/static/media/spring.7223ee74.jpg",
+    "static/media/summer.85947e84.jpg": "/hanochov/Vladi-Hanochov-17-12-2021/static/media/summer.85947e84.jpg",
+    "static/media/winter.7469a563.jpg": "/hanochov/Vladi-Hanochov-17-12-2021/static/media/winter.7469a563.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23d1c9a9.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9c964532.chunk.js",
+    "static/css/main.714d6b34.chunk.css",
+    "static/js/main.350787a7.chunk.js"
+  ]
+}
